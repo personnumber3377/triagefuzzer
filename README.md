@@ -1,0 +1,3 @@
+# Triage fuzzer
+
+The triage fuzzer for pdf fuzzing...
